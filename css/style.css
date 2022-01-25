@@ -1,5 +1,8 @@
+.top-margin{
+    margin-top: 72px;
+}
 .carousel-text{
-    margin: 150px;
+    margin: 0 100px;
 }
 .radious{
     border-radius: 20px;
